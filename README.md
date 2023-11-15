@@ -21,7 +21,7 @@ I'm a Java Fullstack Developer with extensive baggage in programming stuff in ge
 
 ### Next steps:
 
-- Java Exceptions;
+- Java Exceptions,Threads, Solutions and Debug;
 - Java SpringBoot;
 - Java Memory Management;
 - Java API;
