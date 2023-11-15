@@ -1,4 +1,4 @@
-# Hello, my name is Luan and I'm Java Developer! 👋
+# Hello, my name is Luan and I'm Fullstack Developer! 👋
 I'm a Java Fullstack Developer with extensive baggage in programming stuff in general. As a good programmer, I'm looking for new horizons to grow up with my skills and learn more during the journey, day by day.
 
 ## Social Media
@@ -21,11 +21,11 @@ I'm a Java Fullstack Developer with extensive baggage in programming stuff in ge
 
 ### Next steps:
 
-- Java Exceptions,Threads, Solutions and Debug;
-- Java SpringBoot;
-- Java Memory Management;
-- Java API;
-- Data Structure and deeping into Database;
-- Deeping into JDBC;
-- HTTP basics;
-- JSON;
+- [ ] Java Exceptions,Threads, Solutions and Debug;
+- [ ] Java API;
+- [ ] Java Memory Management;
+- [ ] Java SpringBoot;
+- [ ] Data Structure and deeping into Database;
+- [ ] Deeping into JDBC;
+- [ ] HTTP basics;
+- [ ] JSON;
