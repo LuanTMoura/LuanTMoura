@@ -29,5 +29,3 @@ I'm a Java Fullstack Developer with extensive baggage in programming stuff in ge
 - Deeping into JDBC;
 - HTTP basics;
 - JSON;
-
-#
