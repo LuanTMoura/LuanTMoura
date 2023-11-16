@@ -21,11 +21,11 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 
 ### Next steps:
 
-- [ ] Java Exceptions,Threads, Solutions and Debug;
-- [ ] Java API;
-- [ ] Java Memory Management;
-- [ ] Java SpringBoot;
-- [ ] Data Structure and deeping into Database;
-- [ ] Deeping into JDBC;
-- [ ] HTTP basics;
-- [ ] JSON;
+- Java Exceptions, Threads, Solutions and Debug;
+- Java API;
+- Java Memory Management;
+- Java SpringBoot;
+- Data Structure and deeping into Database;
+- Deeping into JDBC;
+- HTTP basics;
+- JSON;
