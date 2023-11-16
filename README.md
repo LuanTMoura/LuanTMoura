@@ -1,4 +1,4 @@
-# Hello, my name is Luan and I'm Fullstack Developer! 👋
+# Hello, my name is Luan! 👋
 I'm a Java Fullstack Developer with extensive baggage in programming stuff in general. As a good programmer, I'm looking for new horizons to grow up with my skills and learn more during the journey, day by day.
 
 ## Social Media
