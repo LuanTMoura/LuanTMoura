@@ -8,8 +8,11 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 
 ## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-#
-## Road map
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanTMoura&theme=react)](https://github.com/LuanTMoura/github-readme-stats)
+
+
+## Journey and Skills
 
 ![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanTMoura&show_icons=true&theme=react)
 
