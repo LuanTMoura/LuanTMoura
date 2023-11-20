@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=LuanTMoura)
 # Hello, my name is Luan! 👋
 I'm a Java Fullstack Developer, and I'm constructing extensive baggage in programming stuff overall. As a good programmer, I'm looking for new horizons to grow up with my skills and learn more during the journey, day by day.
 
@@ -10,7 +11,8 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 #
 ## Road map
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanTMoura&show_icons=true&theme=transparent)
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanTMoura&show_icons=true&theme=react)
+
 ### What I've already Learned?
 - Git and Github;
 - JavaScript and Web Development (BootCamp);
