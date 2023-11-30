@@ -50,7 +50,6 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 **Last steps:**
 - [ ] Hibernate;
 - [ ] Docker Containers;
-- [ ] Relational databases;
 - [ ] Event communication tools (Kafka, RabbitMq);
 - [ ] Agile methodologies (Scrum/Kanban);
 - [ ] CI/CD tools.
