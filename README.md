@@ -46,9 +46,10 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 - [ ] SOLID;
 - [ ] Automated tests in Java;
 - [ ] Rest Architecture;
-- [ ] Microservices;
 
 **Last steps:**
+- [ ] Microservices;
+- [ ] Java Threads/Concurrency;
 - [ ] Docker Containers;
 - [ ] Event communication tools (Kafka, RabbitMq);
 - [ ] Agile methodologies (Scrum/Kanban);
