@@ -26,11 +26,31 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 
 ### Next steps:
 
-- Java Exceptions, Threads, Solutions and Debug;
-- Java API;
-- Java Memory Management;
-- Java SpringBoot;
-- Data Structure and deeping into Database;
-- Deeping into JDBC;
-- HTTP basics;
-- JSON;
+
+**Current steps:**
+- [ ] Maven or Gradle in progress;
+- [ ] Java Exceptions, Threads, Solutions and Debug;
+- [ ] Java API;
+- [ ] Java Memory Management;
+- [ ] Java SpringBoot;
+- [ ] Design Patterns;
+- [ ] Data Structure and deeping into Database;
+- [ ] Deeping into JDBC;
+- [ ] HTTP basics;
+- [ ] JSON;
+
+**Getting deeper:**
+- [ ] Automated tests in Java;
+- [ ] Rest Architecture;
+- [ ] Microservices;
+- [ ] Clean Code;
+- [ ] SOLID;
+- [ ] AWS CLOUD;
+
+**Last steps:**
+- [ ] Hibernate;
+- [ ] Docker Containers;
+- [ ] Relational databases;
+- [ ] Event communication tools (Kafka, RabbitMq);
+- [ ] Agile methodologies (Scrum/Kanban);
+- [ ] CI/CD tools.
