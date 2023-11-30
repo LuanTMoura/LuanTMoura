@@ -28,7 +28,7 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 
 
 **Current steps:**
-- [ ] Maven or Gradle in progress;
+- [ ] Maven or Gradle;
 - [ ] Java Exceptions, Threads, Solutions and Debug;
 - [ ] Java API;
 - [ ] Java Memory Management;
