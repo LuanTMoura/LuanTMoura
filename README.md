@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=LuanTMoura)
 # Hello, my name is Luan! 👋
 I'm a Java Fullstack Developer, and I'm constructing extensive baggage in programming stuff overall. As a good programmer, I'm looking for new horizons to grow up with my skills and learn more during the journey, day by day.
 
