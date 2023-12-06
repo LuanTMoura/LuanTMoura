@@ -23,12 +23,12 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 - Java POO;
 - MySQL server and DataBase;
 - JDBC basics (CRUD);
+- Maven;
 
 ### Next steps:
 
 
 **Current steps:**
-- [ ] Maven or Gradle;
 - [ ] Java Exceptions, Threads, Solutions and Debug;
 - [ ] Java Collections;
 - [ ] Java API;
