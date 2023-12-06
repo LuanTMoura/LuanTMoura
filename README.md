@@ -27,8 +27,6 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 
 ### Next steps:
 
-
-**Current steps:**
 - [ ] Java Exceptions, Threads, Solutions and Debug;
 - [ ] Java Collections;
 - [ ] Java API;
