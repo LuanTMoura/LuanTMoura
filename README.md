@@ -34,23 +34,5 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 - [ ] Java API;
 - [ ] Java Memory Management;
 - [ ] Java SpringBoot;
-- [ ] JPA and Hibernate;
-- [ ] Design Patterns;
-- [ ] AWS CLOUD;
-- [ ] HTTP basics;
-- [ ] JSON;
 
-**Getting deeper:**
-- [ ] Java Domain Driven Design;
-- [ ] Clean Code;
-- [ ] SOLID;
-- [ ] Automated tests in Java;
-- [ ] Rest Architecture;
-
-**Last steps:**
-- [ ] Microservices;
-- [ ] Java Threads/Concurrency;
-- [ ] Docker Containers;
-- [ ] Event communication tools (Kafka, RabbitMq);
-- [ ] Agile methodologies (Scrum/Kanban);
-- [ ] CI/CD tools.
+And more... I'm following this [road map](https://techguide.sh/pt-BR/path/java/).
