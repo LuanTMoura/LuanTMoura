@@ -27,9 +27,9 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 
 ### Next steps:
 
-- [ ] Java Collections;
-- [ ] Java API;
-- [ ] Java Memory Management;
 - [ ] Java SpringBoot;
+- [ ] Java API;
+- [ ] Java Collections;
+- [ ] Java Memory Management;
 
 And more... I'm following this [road map](https://techguide.sh/pt-BR/path/java/).
