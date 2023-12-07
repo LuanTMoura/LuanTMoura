@@ -20,13 +20,13 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 - JavaScript and Web Development (BootCamp);
 - Java Basics;
 - Java POO;
+- Java Exceptions;
 - MySQL server and DataBase;
 - JDBC basics (CRUD);
 - Maven;
 
 ### Next steps:
 
-- [ ] Java Exceptions, Threads, Solutions and Debug;
 - [ ] Java Collections;
 - [ ] Java API;
 - [ ] Java Memory Management;
