@@ -24,10 +24,10 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 - MySQL server and DataBase;
 - JDBC basics (CRUD);
 - Maven;
+- Java Collections;
 
 ### Next steps:
 
-- [ ] Java Collections;
 - [ ] Java Memory Management;
 - [ ] Java API;
 - [ ] Java SpringBoot;
