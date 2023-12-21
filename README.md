@@ -25,11 +25,10 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 - JDBC basics (CRUD);
 - Maven;
 - Java Collections;
+- Java API;
 
 ### Next steps:
 
-- [ ] Java Memory Management;
-- [ ] Java API;
-- [ ] Java SpringBoot;
+- [ ] Java Spring Framework and SpringBoot;
 
 And more... I'm following this [road map](https://techguide.sh/pt-BR/path/java/).
