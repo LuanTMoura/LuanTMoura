@@ -17,18 +17,9 @@ I'm a Java Fullstack Developer, and I'm constructing extensive baggage in progra
 
 ### What I've already Learned?
 - Git and Github;
+- [Java Development](https://github.com/LuanTMoura/Java-Development-Content);
 - JavaScript and Web Development (BootCamp);
-- Java Basics;
-- Java POO;
-- Java Exceptions;
 - MySQL server and DataBase;
-- JDBC basics (CRUD);
-- Maven;
-- Java Collections;
-- Java API;
 
-### Next steps:
 
-- [ ] Java Spring Framework and SpringBoot;
-
-And more... I'm following this [road map](https://techguide.sh/pt-BR/path/java/).
+I'm following this [road map](https://techguide.sh/pt-BR/path/java/).
